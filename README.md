@@ -7,9 +7,6 @@ Esse é um projeto de ciências de dados, feito durante a faculdade. Ele aborda:
 - O estudo do DataFrame
 - O tratamento dos dados
 - Análise exploratória dos dados 
-  - Análise descritiva 
-  - Análise comportamental das variáveis
-- Pré-processamento dos dados
 - Criação do modelo clássico e dos modelos de machine learning
   - Regressão Linear
   - KNN 
